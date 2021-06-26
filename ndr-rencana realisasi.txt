@@ -1,0 +1,3 @@
+Rencana kedepan:
+- belajar Git & Github
+- Belajar dasar-dasar Phyton
