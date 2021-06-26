@@ -1,4 +1,5 @@
 Rencana kedepan:
 - belajar Git & Github
  * dari sabtu, 26 juni sampai minggu 26 juni 2021
+ * dua hari
 - Belajar dasar-dasar Phyton
