@@ -4,3 +4,4 @@ Rencana kedepan:
  * dua hari
 - Belajar dasar-dasar Phyton
  * membaca buku 
+ *mengikuti kursus atau pelatihan
